@@ -10,7 +10,7 @@ Gem::Specification.new do |gem|
   gem.email       = ['firas@zaidan.de']
   gem.description = 'Operations for transactions'
   gem.summary     = gem.description
-  gem.homepage    = 'https://github.com/lb-rb/lb'
+  gem.homepage    = 'https://github.com/lb-rb/lb-operation'
   gem.license     = 'MIT'
 
   gem.bindir                = 'bin'
